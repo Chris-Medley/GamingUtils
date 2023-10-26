@@ -1,0 +1,14 @@
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\bin\Debug\net6.0\Gaming Utils.exe
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\bin\Debug\net6.0\Gaming Utils.deps.json
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\bin\Debug\net6.0\Gaming Utils.runtimeconfig.json
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\bin\Debug\net6.0\Gaming Utils.dll
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\bin\Debug\net6.0\Gaming Utils.pdb
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\obj\Debug\net6.0\Gaming Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\obj\Debug\net6.0\Gaming Utils.AssemblyInfoInputs.cache
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\obj\Debug\net6.0\Gaming Utils.AssemblyInfo.cs
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\obj\Debug\net6.0\Gaming Utils.csproj.CoreCompileInputs.cache
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\obj\Debug\net6.0\Gaming Utils.dll
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\obj\Debug\net6.0\refint\Gaming Utils.dll
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\obj\Debug\net6.0\Gaming Utils.pdb
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\obj\Debug\net6.0\Gaming Utils.genruntimeconfig.cache
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utils\obj\Debug\net6.0\ref\Gaming Utils.dll

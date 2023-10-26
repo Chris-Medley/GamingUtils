@@ -1,0 +1,28 @@
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\net6.0\Gaming Utilities.exe
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\net6.0\Gaming Utilities.deps.json
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\net6.0\Gaming Utilities.runtimeconfig.json
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\net6.0\Gaming Utilities.dll
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\net6.0\Gaming Utilities.pdb
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net6.0\Gaming Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net6.0\Gaming Utilities.AssemblyInfoInputs.cache
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net6.0\Gaming Utilities.AssemblyInfo.cs
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net6.0\Gaming Utilities.csproj.CoreCompileInputs.cache
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net6.0\Gaming Utilities.dll
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net6.0\refint\Gaming Utilities.dll
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net6.0\Gaming Utilities.pdb
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net6.0\Gaming Utilities.genruntimeconfig.cache
+C:\Users\chris.medley\source\repos\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net6.0\ref\Gaming Utilities.dll
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\bin\Debug\net6.0\Gaming Utilities.exe
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\bin\Debug\net6.0\Gaming Utilities.deps.json
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\bin\Debug\net6.0\Gaming Utilities.runtimeconfig.json
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\bin\Debug\net6.0\Gaming Utilities.dll
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\bin\Debug\net6.0\Gaming Utilities.pdb
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\obj\Debug\net6.0\Gaming Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\obj\Debug\net6.0\Gaming Utilities.AssemblyInfoInputs.cache
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\obj\Debug\net6.0\Gaming Utilities.AssemblyInfo.cs
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\obj\Debug\net6.0\Gaming Utilities.csproj.CoreCompileInputs.cache
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\obj\Debug\net6.0\Gaming Utilities.dll
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\obj\Debug\net6.0\refint\Gaming Utilities.dll
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\obj\Debug\net6.0\Gaming Utilities.pdb
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\obj\Debug\net6.0\Gaming Utilities.genruntimeconfig.cache
+C:\Users\chris.medley\source\repos\Gaming-Utilities\Gaming Utilities\obj\Debug\net6.0\ref\Gaming Utilities.dll
